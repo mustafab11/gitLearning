@@ -6,6 +6,11 @@ public class Practice {
 
 //Hello Tuesday
         //Hi EU2
+        
+        
+        
+        //from github to InteliiJ "HELLOOO!!!!!"
+        
 
 
 
